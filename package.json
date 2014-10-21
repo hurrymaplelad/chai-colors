@@ -1,6 +1,6 @@
 {
   "name": "chai-colors",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Color assertions for chai",
   "author": "Adam Hull <adam@hmlad.com>",
   "keywords": [
