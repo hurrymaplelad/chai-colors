@@ -5,8 +5,11 @@
   "author": "Adam Hull <adam@hmlad.com>",
   "keywords": [
     "chai",
+    "chai-plugin",
+    "browser",
     "plugin",
     "color",
+    "colors",
     "assertion"
   ],
   "main": "chai_colors",
